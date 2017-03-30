@@ -20,7 +20,7 @@ dct:contributor:
 
 requirements:
     DockerRequirement:
-      dockerPull: quay.io/ljdursi/consensus_call_docker
+      dockerPull: quay.io/pancancer/pcawg-consensus-caller
     EnvVarRequirement:
       envDef:
         USE_DB_PATH: $(inputs.dbs_dir.path)/annotation_databases
