@@ -1,3 +1,5 @@
+[![Docker Repository on Quay](https://quay.io/repository/pancancer/pcawg-consensus-caller/status "Docker Repository on Quay")](https://quay.io/repository/pancancer/pcawg-consensus-caller)
+
 # PCAWG Consensus call image
 
 This repo contains a docker image which encapsulates the final consensus-calling pipeline 
