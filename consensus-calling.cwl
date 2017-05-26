@@ -4,7 +4,7 @@ class: CommandLineTool
 id: "ConsensusCalling"
 label: "ConsensusCalling"
 
-description: |
+doc: |
     This is the ConsensusCalling tool used in the PCAWG project.
     ConsensusCalling was created by Jonathan Dursi (jonathan.dursi@sickkids.ca).
     This CWL wrapper was created by Solomon Shorser.
